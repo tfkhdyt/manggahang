@@ -1,4 +1,4 @@
-<section class="py-32 space-y-14" id="tentang-kami">
+<section class="space-y-14 mt-42" id="tentang-kami">
 	<div class="flex justify-between items-center space-x-4">
 		<h2 class="w-3/6 text-6xl font-bold leading-snug">Kenali Manggahang dalam 3 menit</h2>
 		<p class="w-3/6 text-xl leading-relaxed text-right text-gray-600">

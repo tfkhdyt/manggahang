@@ -16,6 +16,7 @@
 	import Hero from '../components/Hero.svelte';
 	import TentangKami from '../components/TentangKami.svelte';
 	import VisiMisi from '../components/VisiMisi.svelte';
+	import Galeri from '../components/Galeri.svelte';
 </script>
 
 <svelte:head>
@@ -27,4 +28,5 @@
 	<Hero />
 	<TentangKami />
 	<VisiMisi />
+	<Galeri />
 </main>

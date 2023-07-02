@@ -1,4 +1,4 @@
-<section class="flex gap-24 pt-8">
+<section class="flex gap-24 mt-42" id="visi-misi">
 	<div class="space-y-8 w-1/2">
 		<div class="relative group">
 			<div
