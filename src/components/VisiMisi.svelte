@@ -11,11 +11,11 @@
 			/>
 		</div>
 		<div>
-			<h3 class="text-2xl font-bold">Visi</h3>
+			<h3 class="mb-1 text-2xl font-bold">Visi</h3>
 			<p class="text-xl leading-relaxed text-gray-600">
 				Sebagai pusat pengembangan jasa yang utama di Kabupaten Bandung.
 			</p>
-			<h3 class="mt-4 text-2xl font-bold">Misi</h3>
+			<h3 class="mt-4 mb-1 text-2xl font-bold">Misi</h3>
 			<div class="text-xl leading-relaxed text-gray-600">
 				<ul class="ml-6 space-y-2 list-disc list-outside">
 					<li>
