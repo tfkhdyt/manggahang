@@ -2,7 +2,7 @@
 	import Stat from './Stat.svelte';
 </script>
 
-<section class="flex items-end py-6" id="home">
+<section class="flex items-end pt-6" id="home">
 	<div class="space-y-10 w-1/2">
 		<h1 class="max-w-md font-bold md:text-4xl lg:text-6xl lg:leading-snug">
 			Selamat Datang di Manggahang!
