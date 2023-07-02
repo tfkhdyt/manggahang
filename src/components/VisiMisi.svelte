@@ -2,7 +2,7 @@
 	<div class="space-y-8 w-1/2">
 		<div class="relative group">
 			<div
-				class="absolute top-0 left-0 z-50 w-full bg-gradient-to-r from-red-800 to-purple-800 rounded opacity-25 transition group-hover:opacity-0 rounded-tl-[4rem] aspect-[2/1]"
+				class="absolute top-0 left-0 z-50 w-full bg-gradient-to-r from-orange-800 to-purple-800 rounded opacity-25 transition group-hover:opacity-0 rounded-tl-[4rem] aspect-[2/1]"
 			/>
 			<img
 				src="/img/manggahang-1.jpg"
@@ -34,7 +34,7 @@
 		<h2 class="text-6xl font-bold leading-snug">Visi dan Misi Manggahang</h2>
 		<div class="relative group">
 			<div
-				class="absolute top-0 left-0 z-50 w-full bg-gradient-to-r from-red-800 to-purple-800 rounded opacity-25 transition group-hover:opacity-0 rounded-br-[4rem] aspect-[4/3]"
+				class="absolute top-0 left-0 z-50 w-full bg-gradient-to-r from-orange-800 to-purple-800 rounded opacity-25 transition group-hover:opacity-0 rounded-br-[4rem] aspect-[4/3]"
 			/>
 			<img
 				src="/img/pemandangan.jpg"

@@ -18,7 +18,7 @@
 	<div class="pl-8 space-y-4 w-1/2">
 		<div class="relative ml-auto w-5/6 group">
 			<div
-				class="absolute top-0 left-0 z-50 w-full bg-gradient-to-r from-red-800 to-purple-800 rounded-b opacity-25 transition group-hover:opacity-0 rounded-t-[3rem] aspect-[3/1]"
+				class="absolute top-0 left-0 z-50 w-full bg-gradient-to-r from-orange-800 to-purple-800 rounded-b opacity-25 transition group-hover:opacity-0 rounded-t-[3rem] aspect-[3/1]"
 			/>
 			<img
 				src="/img/gunung-geulis.jpg"
@@ -28,7 +28,7 @@
 		</div>
 		<div class="relative ml-auto w-5/6 group">
 			<div
-				class="absolute top-0 left-0 z-50 w-full bg-gradient-to-r from-red-800 to-purple-800 rounded opacity-25 transition group-hover:opacity-0 aspect-[2.5/1]"
+				class="absolute top-0 left-0 z-50 w-full bg-gradient-to-r from-orange-800 to-purple-800 rounded opacity-25 transition group-hover:opacity-0 aspect-[2.5/1]"
 			/>
 			<img
 				src="/img/lapang-carik.jpg"
@@ -38,7 +38,7 @@
 		</div>
 		<div class="relative ml-auto w-5/6 group">
 			<div
-				class="absolute top-0 left-0 z-50 w-full bg-gradient-to-r from-red-800 to-purple-800 rounded-t opacity-25 transition group-hover:opacity-0 rounded-b-[3rem] aspect-[4/3]"
+				class="absolute top-0 left-0 z-50 w-full bg-gradient-to-r from-orange-800 to-purple-800 rounded-t opacity-25 transition group-hover:opacity-0 rounded-b-[3rem] aspect-[4/3]"
 			/>
 			<img
 				src="/img/kantor-kelurahan.jpg"
