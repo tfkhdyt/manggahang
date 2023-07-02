@@ -1,7 +1,7 @@
 <section class="py-32 space-y-14" id="tentang-kami">
 	<div class="flex justify-between items-center space-x-4">
 		<h2 class="w-3/6 text-6xl font-bold leading-snug">Kenali Manggahang dalam 3 menit</h2>
-		<p class="w-2/6 text-xl leading-relaxed text-gray-600">
+		<p class="w-3/6 text-xl leading-relaxed text-right text-gray-600">
 			Manggahang adalah sebuah kelurahan di kecamatan Baleendah, Bandung, Jawa Barat, Indonesia.
 		</p>
 	</div>
