@@ -7,13 +7,13 @@
 		src="/img/gunung-geulis.jpg"
 		alt="Gunung geulis"
 		roundedPosition="t"
-		aspectRatio="3/1"
+		className="aspect-[3/1]"
 	/>
-	<GradientImage src="/img/lapang-carik.jpg" alt="Lapangan Carik" aspectRatio="2.5/1" />
+	<GradientImage src="/img/lapang-carik.jpg" alt="Lapangan Carik" className="aspect-[2.5/1]" />
 	<GradientImage
 		src="/img/kantor-kelurahan.jpg"
 		alt="Kantor kelurahan"
 		roundedPosition="b"
-		aspectRatio="4/3"
+		className="aspect-[4/3]"
 	/>
 </div>

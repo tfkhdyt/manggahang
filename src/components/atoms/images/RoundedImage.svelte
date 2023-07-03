@@ -2,10 +2,10 @@
 	import clsx from 'clsx';
 	import { match } from 'ts-pattern';
 
-	export let roundedPosition = '';
-	export let aspectRatio;
+	export let roundedPosition;
 	export let src;
 	export let alt;
+	export let className = '';
 </script>
 
 <img
@@ -22,7 +22,8 @@
 			.with('tr', () => 'rounded-tr-[4rem]')
 			.with('bl', () => 'rounded-bl-[4rem]')
 			.with('br', () => 'rounded-br-[4rem]')
-			.otherwise(() => ''),
-		`aspect-[${aspectRatio}]`
+			.with('none', () => '')
+			.exhaustive(),
+		className
 	)}
 />

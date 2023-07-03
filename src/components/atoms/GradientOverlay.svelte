@@ -3,7 +3,7 @@
 	import { match } from 'ts-pattern';
 
 	export let roundedPosition;
-	export let aspectRatio;
+	export let className = '';
 </script>
 
 <div
@@ -18,7 +18,8 @@
 			.with('tr', () => 'rounded-tr-[4rem]')
 			.with('bl', () => 'rounded-bl-[4rem]')
 			.with('br', () => 'rounded-br-[4rem]')
-			.otherwise(() => ''),
-		`aspect-[${aspectRatio}]`
+			.with('none', () => '')
+			.exhaustive(),
+		className
 	)}
 />
