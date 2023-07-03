@@ -5,10 +5,14 @@
 </script>
 
 <div class="space-y-10 w-1/2">
-	<Title>Selamat Datang di Manggahang!</Title>
-	<Subtitle>
-		Manggahang adalah sebuah kelurahan di kecamatan Baleendah, Bandung, Jawa Barat, Indonesia.
-	</Subtitle>
+	<div class="max-w-md">
+		<Title>Selamat Datang di Manggahang!</Title>
+	</div>
+	<div class="max-w-md">
+		<Subtitle>
+			Manggahang adalah sebuah kelurahan di kecamatan Baleendah, Bandung, Jawa Barat, Indonesia.
+		</Subtitle>
+	</div>
 	<div class="flex pt-12 space-x-8">
 		<Stat title="Total penduduk" value="38 rb" />
 		<Stat title="Suhu Rata-rata" value="27 °C" />
