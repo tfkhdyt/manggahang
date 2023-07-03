@@ -12,13 +12,13 @@
 	import '@fontsource/poppins/900.css';
 	import '../app.css';
 
-	import Header from '../components/Header.svelte';
-	import Hero from '../components/Hero.svelte';
 	import TentangKami from '../components/TentangKami.svelte';
 	import VisiMisi from '../components/VisiMisi.svelte';
 	import Galeri from '../components/Galeri.svelte';
 	import Lokasi from '../components/Lokasi.svelte';
-	import Footer from '../components/Footer.svelte';
+	import Footer from '../components/organisms/Footer/Footer.svelte';
+	import Hero from '../components/organisms/Hero/Hero.svelte';
+	import Header from '../components/organisms/Header/Header.svelte';
 </script>
 
 <svelte:head>
