@@ -3,7 +3,7 @@
 </script>
 
 <div class="space-x-12">
-	<NavbarItem href="#">Home</NavbarItem>
+	<NavbarItem href="#home">Home</NavbarItem>
 	<NavbarItem href="#tentang-kami">Tentang Kami</NavbarItem>
 	<NavbarItem href="#visi-misi">Visi Misi</NavbarItem>
 	<NavbarItem href="#galeri">Galeri</NavbarItem>
