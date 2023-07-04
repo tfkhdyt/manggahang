@@ -8,7 +8,7 @@
 	export let alt;
 </script>
 
-<div class="relative ml-auto w-5/6 group" title={alt}>
+<div class="relative group" title={alt}>
 	<GradientOverlay {roundedPosition} {className} />
 	<RoundedImage {src} {alt} {roundedPosition} {className} />
 </div>

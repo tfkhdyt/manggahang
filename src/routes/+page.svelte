@@ -12,7 +12,7 @@
 	import '@fontsource/poppins/900.css';
 	import '../app.css';
 
-	import VisiMisi from '../components/VisiMisi.svelte';
+	import VisiMisi from '../components/organisms/VisiMisi.svelte';
 	import Galeri from '../components/Galeri.svelte';
 	import Lokasi from '../components/Lokasi.svelte';
 	import Footer from '../components/organisms/Footer.svelte';
