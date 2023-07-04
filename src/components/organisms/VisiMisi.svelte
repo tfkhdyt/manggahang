@@ -3,7 +3,7 @@
 	import VisiMisiHeading from '../molecules/VisiMisi/Heading.svelte';
 </script>
 
-<section class="flex gap-24 py-20" id="visi-misi">
-	<VisiMisiContent />
+<section class="py-20 space-y-8 lg:space-y-12" id="visi-misi">
 	<VisiMisiHeading />
+	<VisiMisiContent />
 </section>
