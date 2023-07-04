@@ -12,25 +12,11 @@
 	import '@fontsource/poppins/900.css';
 	import '../app.css';
 
-	import VisiMisi from '../components/organisms/VisiMisi.svelte';
-	import Lokasi from '../components/organisms/Lokasi.svelte';
-	import Footer from '../components/organisms/Footer.svelte';
-	import Galeri from '../components/organisms/Galeri.svelte';
-	import Hero from '../components/organisms/Hero.svelte';
-	import Header from '../components/organisms/Header.svelte';
-	import TentangKami from '../components/organisms/TentangKami.svelte';
+	import Homepage from '../components/templates/Homepage.svelte';
 </script>
 
 <svelte:head>
 	<title>Manggahang</title>
 </svelte:head>
 
-<main class="container mx-auto lg:px-32">
-	<Header />
-	<Hero />
-	<TentangKami />
-	<VisiMisi />
-	<Galeri />
-	<Lokasi />
-</main>
-<Footer />
+<Homepage />
