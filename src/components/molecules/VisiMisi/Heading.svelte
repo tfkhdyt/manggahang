@@ -6,7 +6,7 @@
 <div class="flex flex-col gap-6 items-center md:flex-row md:gap-12">
 	<div class="md:w-1/2">
 		<GradientImage
-			src="/img/manggahang-1.jpg"
+			src="/img/manggahang-1.webp"
 			alt="SDN Manggahang 1"
 			roundedPosition="tl"
 			className="aspect-[2/1]"

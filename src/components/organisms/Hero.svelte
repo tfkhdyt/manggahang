@@ -15,18 +15,18 @@
 	<div class="space-y-4 md:pl-8 md:w-1/2">
 		<div class="ml-auto md:w-11/12 lg:w-5/6">
 			<GradientImage
-				src="/img/gunung-geulis.jpg"
+				src="/img/gunung-geulis.webp"
 				alt="Gunung geulis"
 				roundedPosition="t"
 				className="aspect-[3/1]"
 			/>
 		</div>
 		<div class="ml-auto md:w-11/12 lg:w-5/6">
-			<GradientImage src="/img/lapang-carik.jpg" alt="Lapangan Carik" className="aspect-[2.5/1]" />
+			<GradientImage src="/img/lapang-carik.webp" alt="Lapangan Carik" className="aspect-[2.5/1]" />
 		</div>
 		<div class="ml-auto md:w-11/12 lg:w-5/6">
 			<GradientImage
-				src="/img/kantor-kelurahan.jpg"
+				src="/img/kantor-kelurahan.webp"
 				alt="Kantor kelurahan"
 				roundedPosition="b"
 				className="aspect-[4/3]"

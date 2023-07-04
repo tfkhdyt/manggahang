@@ -30,7 +30,7 @@
 	</div>
 	<div class="md:w-1/2">
 		<GradientImage
-			src="/img/pemandangan.jpg"
+			src="/img/pemandangan.webp"
 			alt="Pemandangan dari atas"
 			roundedPosition="br"
 			className="aspect-[4/3] md:aspect-[5/6] lg:aspect-[4/3]"
