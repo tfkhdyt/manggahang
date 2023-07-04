@@ -13,7 +13,7 @@
 	import '../app.css';
 
 	import VisiMisi from '../components/organisms/VisiMisi.svelte';
-	import Lokasi from '../components/Lokasi.svelte';
+	import Lokasi from '../components/organisms/Lokasi.svelte';
 	import Footer from '../components/organisms/Footer.svelte';
 	import Galeri from '../components/organisms/Galeri.svelte';
 	import Hero from '../components/organisms/Hero.svelte';
