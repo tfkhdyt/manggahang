@@ -11,6 +11,9 @@ dependencies:
   clsx:
     specifier: ^1.2.1
     version: 1.2.1
+  svelte-media-queries:
+    specifier: ^1.5.4
+    version: 1.5.4
   ts-pattern:
     specifier: ^5.0.1
     version: 5.0.1
@@ -1823,6 +1826,10 @@ packages:
     dependencies:
       svelte: 4.0.1
     dev: true
+
+  /svelte-media-queries@1.5.4:
+    resolution: {integrity: sha512-+qH3lDk3DhAC3Gsuw05P30+LMjp9gmF/4+fsnVHLYYsx8fM56f4ZJ0SZjm+lp+PSLot5N3uQXYDTvPcYGGC40Q==}
+    dev: false
 
   /svelte@4.0.1:
     resolution: {integrity: sha512-7n2u7A5cu8xCY6MBiXh/Mg6Lh3+Mw2qXlTDBYhzvCvmSM4L4gc4MVo540UtGcjqBiA48E1VDW+EUpBr7iuBlPg==}

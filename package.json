@@ -27,6 +27,7 @@
 	"dependencies": {
 		"@fontsource/poppins": "^5.0.3",
 		"clsx": "^1.2.1",
+		"svelte-media-queries": "^1.5.4",
 		"ts-pattern": "^5.0.1"
 	}
 }
