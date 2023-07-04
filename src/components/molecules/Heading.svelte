@@ -1,6 +1,6 @@
 <script>
-	import Subtitle from '../../atoms/typography/Subtitle.svelte';
-	import Title from '../../atoms/typography/Title.svelte';
+	import Subtitle from '../atoms/typography/Subtitle.svelte';
+	import Title from '../atoms/typography/Title.svelte';
 
 	export let title;
 	export let subtitle = undefined;

@@ -1,5 +1,5 @@
 <script>
-	import NavbarItem from '../../atoms/lists/NavbarItem.svelte';
+	import NavbarItem from '../atoms/lists/NavbarItem.svelte';
 </script>
 
 <div class="space-x-12">

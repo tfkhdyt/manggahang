@@ -1,6 +1,6 @@
 <script>
-	import MediumText from '../../atoms/typography/MediumText.svelte';
-	import NormalText from '../../atoms/typography/NormalText.svelte';
+	import MediumText from '../atoms/typography/MediumText.svelte';
+	import NormalText from '../atoms/typography/NormalText.svelte';
 
 	export let title;
 	export let value;

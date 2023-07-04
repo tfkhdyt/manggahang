@@ -1,6 +1,6 @@
 <script>
-	import GradientOverlay from '../../atoms/GradientOverlay.svelte';
-	import RoundedImage from '../../atoms/images/RoundedImage.svelte';
+	import GradientOverlay from '../atoms/GradientOverlay.svelte';
+	import RoundedImage from '../atoms/images/RoundedImage.svelte';
 
 	export let roundedPosition = 'none';
 	export let className = '';

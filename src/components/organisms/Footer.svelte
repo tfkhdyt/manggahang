@@ -1,6 +1,6 @@
 <script>
-	import Brand from '../../molecules/Brand/Brand.svelte';
-	import Navbar from '../../molecules/Navbar/Navbar.svelte';
+	import Brand from '../molecules/Brand.svelte';
+	import Navbar from '../molecules/Navbar.svelte';
 </script>
 
 <footer class="bg-neutral-100">

@@ -1,10 +1,10 @@
 <script>
-	import GradientImage from '../../molecules/GradientImage/GradientImage.svelte';
-	import Introduction from '../../molecules/Introduction/Introduction.svelte';
-	import Stat from '../../molecules/Stat/Stat.svelte';
+	import GradientImage from '../molecules/GradientImage.svelte';
+	import Introduction from '../molecules/Introduction.svelte';
+	import Stat from '../molecules/Stat.svelte';
 </script>
 
-<section class="flex items-end pt-6 pb-16" id="home">
+<section class="flex items-end pt-6 pb-16">
 	<div class="space-y-10 w-1/2">
 		<Introduction />
 		<div class="flex pt-12 space-x-8">

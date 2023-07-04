@@ -1,6 +1,6 @@
 <script>
-	import Video from '../../atoms/iframe/Video.svelte';
-	import Heading from '../../molecules/Heading/Heading.svelte';
+	import Video from '../atoms/iframe/Video.svelte';
+	import Heading from '../molecules/Heading.svelte';
 </script>
 
 <section class="py-20 space-y-14" id="tentang-kami">
