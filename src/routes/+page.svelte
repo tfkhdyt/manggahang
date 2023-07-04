@@ -13,9 +13,9 @@
 	import '../app.css';
 
 	import VisiMisi from '../components/organisms/VisiMisi.svelte';
-	import Galeri from '../components/Galeri.svelte';
 	import Lokasi from '../components/Lokasi.svelte';
 	import Footer from '../components/organisms/Footer.svelte';
+	import Galeri from '../components/organisms/Galeri.svelte';
 	import Hero from '../components/organisms/Hero.svelte';
 	import Header from '../components/organisms/Header.svelte';
 	import TentangKami from '../components/organisms/TentangKami.svelte';
