@@ -6,12 +6,12 @@
 	export let subtitle = undefined;
 </script>
 
-<div class="flex justify-between items-center space-x-12 lg:space-x-4">
-	<div class="w-3/6">
+<div class="flex flex-col gap-4 justify-between items-center md:flex-row lg:gap-6">
+	<div class="md:w-3/6">
 		<Title>{title}</Title>
 	</div>
 	{#if subtitle}
-		<div class="w-3/6 text-right">
+		<div class="md:w-3/6 md:text-right">
 			<Subtitle>{subtitle}</Subtitle>
 		</div>
 	{/if}
