@@ -6,7 +6,9 @@
 	export let value;
 </script>
 
-<div class="p-10 space-y-6 transition rounded-[2rem] bg-neutral-100 hover:bg-neutral-200">
+<div
+	class="p-10 space-y-3 transition lg:space-y-6 rounded-[2rem] bg-neutral-100 hover:bg-neutral-200"
+>
 	<MediumText>{value}</MediumText>
 	<NormalText>{title}</NormalText>
 </div>

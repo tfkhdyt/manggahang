@@ -6,7 +6,7 @@
 	export let subtitle = undefined;
 </script>
 
-<div class="flex justify-between items-center space-x-4">
+<div class="flex justify-between items-center space-x-12 lg:space-x-4">
 	<div class="w-3/6">
 		<Title>{title}</Title>
 	</div>

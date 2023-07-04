@@ -2,7 +2,7 @@
 	import GradientImage from './GradientImage.svelte';
 </script>
 
-<div class="grid grid-cols-3 gap-10 mt-12">
+<div class="grid grid-cols-3 gap-6 mt-12 lg:gap-10">
 	<GradientImage
 		src="/img/spbu.jpg"
 		alt="SPBU Jelekong"
