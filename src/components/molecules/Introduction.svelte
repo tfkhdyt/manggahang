@@ -3,10 +3,10 @@
 	import Title from '../atoms/typography/Title.svelte';
 </script>
 
-<div class="max-w-md">
+<div class="md:max-w-md">
 	<Title>Selamat Datang di Manggahang!</Title>
 </div>
-<div class="max-w-md">
+<div class="md:max-w-md">
 	<Subtitle>
 		Manggahang adalah sebuah kelurahan di kecamatan Baleendah, Bandung, Jawa Barat, Indonesia.
 	</Subtitle>

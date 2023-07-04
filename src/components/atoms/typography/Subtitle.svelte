@@ -1,3 +1,3 @@
-<div class="text-lg leading-relaxed text-gray-600 lg:text-xl">
+<div class="leading-relaxed text-gray-600 md:text-lg lg:text-xl">
 	<slot />
 </div>
