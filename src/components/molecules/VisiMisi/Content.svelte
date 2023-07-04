@@ -5,7 +5,7 @@
 	import GradientImage from '../GradientImage.svelte';
 </script>
 
-<div class="flex flex-col gap-6 md:flex-row md:gap-12">
+<div class="flex flex-col gap-12 md:flex-row">
 	<div class="space-y-4 md:w-1/2">
 		<div>
 			<BoldText>Visi</BoldText>
