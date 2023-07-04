@@ -1,11 +1,11 @@
 <script>
-	// import Footer from '../organisms/Footer.svelte';
 	import Hero from '../organisms/Hero.svelte';
 	import Header from '../organisms/Header.svelte';
 	import TentangKami from '../organisms/TentangKami.svelte';
 	import VisiMisi from '../organisms/VisiMisi.svelte';
 	import Galeri from '../organisms/Galeri.svelte';
 	import Lokasi from '../organisms/Lokasi.svelte';
+	import Footer from '../organisms/Footer.svelte';
 </script>
 
 <Header />
@@ -16,4 +16,4 @@
 	<Galeri />
 	<Lokasi />
 </main>
-<!-- <Footer /> -->
+<Footer />
