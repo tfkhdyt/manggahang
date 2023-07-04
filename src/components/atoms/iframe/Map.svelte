@@ -7,5 +7,5 @@
 	loading="lazy"
 	referrerpolicy="no-referrer-when-downgrade"
 	title="Peta Manggahang"
-	class="aspect-video rounded-[4rem] lg:aspect-[21/9]"
+	class="aspect-video rounded-[2rem] md:rounded-[4rem] lg:aspect-[21/9]"
 />
