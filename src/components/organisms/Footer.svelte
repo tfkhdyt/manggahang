@@ -1,6 +1,6 @@
 <script>
 	import Brand from '../molecules/Brand.svelte';
-	import Navbar from '../molecules/Navbar.svelte';
+	import DesktopNavbar from '../molecules/Navbar/Desktop.svelte';
 </script>
 
 <footer class="bg-neutral-100">
@@ -9,7 +9,7 @@
 	>
 		<Brand />
 		<div>
-			<Navbar className="flex flex-col gap-6 md:flex-row md:gap-0" />
+			<DesktopNavbar className="flex flex-col gap-6 md:flex-row md:gap-0" />
 		</div>
 	</div>
 </footer>

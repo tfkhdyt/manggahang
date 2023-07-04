@@ -1,7 +1,7 @@
 <script>
-	export let href;
+	export let onClick;
 </script>
 
-<a {href}>
+<button on:click={onClick}>
 	<slot />
-</a>
+</button>
