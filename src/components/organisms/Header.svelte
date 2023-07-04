@@ -1,6 +1,7 @@
 <script>
 	import Brand from '../molecules/Brand.svelte';
-	import Navbar from '../molecules/Navbar.svelte';
+	import DesktopNavbar from '../molecules/Navbar/Desktop.svelte';
+	import MobileNavbar from '../molecules/Navbar/Mobile.svelte';
 </script>
 
 <header id="home">
@@ -9,7 +10,8 @@
 	>
 		<Brand />
 		<div class="hidden md:block">
-			<Navbar />
+			<DesktopNavbar />
 		</div>
+		<MobileNavbar />
 	</div>
 </header>
