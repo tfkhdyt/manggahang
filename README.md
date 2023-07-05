@@ -2,6 +2,8 @@
 
 Web Desa Manggahang - Tugas Akhir Mata Kuliah Praktikum Pemrograman Internet 
 
+Demo: https://manggahang.vercel.app
+
 ## Built with
 
 - SvelteKit
