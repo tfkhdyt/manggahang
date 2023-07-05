@@ -8,12 +8,14 @@
 	import Footer from '../organisms/Footer.svelte';
 </script>
 
-<Header />
-<main class="container px-8 mx-auto md:px-0 lg:px-32">
-	<Hero />
-	<TentangKami />
-	<VisiMisi />
-	<Galeri />
-	<Lokasi />
-</main>
-<Footer />
+<div class="relative">
+	<Header />
+	<main class="container px-8 mx-auto mt-24 md:px-0 lg:px-32">
+		<Hero />
+		<TentangKami />
+		<VisiMisi />
+		<Galeri />
+		<Lokasi />
+	</main>
+	<Footer />
+</div>
