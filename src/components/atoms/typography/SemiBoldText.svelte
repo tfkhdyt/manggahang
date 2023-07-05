@@ -1,3 +1,3 @@
-<p class="text-lg font-semibold md:text-base">
+<p class="text-lg font-semibold">
 	<slot />
 </p>
