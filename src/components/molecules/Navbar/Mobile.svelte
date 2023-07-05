@@ -8,10 +8,10 @@
 </script>
 
 <div class="relative md:hidden">
-	<Hamburger bind:open type="vortex-r" --layer-height="2px" />
+	<Hamburger bind:open type="spring-r" --layer-height="3px" />
 	{#if open}
 		<div
-			class="absolute right-0 py-4 px-6 w-32 bg-white rounded-lg shadow top-15"
+			class="absolute right-0 py-4 px-6 bg-white rounded-lg shadow w-42 top-15"
 			transition:fly={{ y: -25, duration: 250 }}
 		>
 			<DesktopNavbar className="flex flex-col gap-6 md:flex-row md:gap-0" />
