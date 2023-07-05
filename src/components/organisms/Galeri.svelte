@@ -3,7 +3,7 @@
 	import ImageGrid from '../molecules/ImageGrid.svelte';
 </script>
 
-<section class="py-10 space-y-8 md:py-20 md:space-y-12" id="galeri">
+<section class="py-10 space-y-8 md:py-20 md:space-y-12 scroll-mt-20 md:scroll-mt-12" id="galeri">
 	<Title>Galeri</Title>
 	<ImageGrid />
 </section>

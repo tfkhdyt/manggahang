@@ -4,7 +4,10 @@
 	import Stat from '../molecules/Stat.svelte';
 </script>
 
-<section class="flex flex-col gap-12 items-end pt-6 pb-10 md:flex-row md:gap-0 md:pb-20">
+<section
+	class="flex flex-col gap-12 items-end pt-6 pb-10 md:flex-row md:gap-0 md:pb-20 scroll-mt-24"
+	id="home"
+>
 	<div class="space-y-6 md:space-y-10 md:w-1/2">
 		<Introduction />
 		<div class="flex pt-6 space-x-6 md:space-x-8 lg:pt-12">

@@ -3,7 +3,7 @@
 	import Title from '../atoms/typography/Title.svelte';
 </script>
 
-<section class="py-10 space-y-8 md:py-20 md:space-y-12" id="lokasi">
+<section class="pt-10 pb-20 space-y-8 md:py-20 md:space-y-12 scroll-mt-12" id="lokasi">
 	<Title>Lokasi</Title>
 	<Map />
 </section>

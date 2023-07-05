@@ -3,7 +3,10 @@
 	import Heading from '../molecules/Heading.svelte';
 </script>
 
-<section class="py-10 space-y-12 md:py-20 md:space-y-14" id="tentang-kami">
+<section
+	class="py-10 space-y-12 md:py-20 md:space-y-14 scroll-mt-20 md:scroll-mt-12"
+	id="tentang-kami"
+>
 	<Heading
 		title="Kenali Manggahang dalam 3 menit"
 		subtitle="
