@@ -4,12 +4,10 @@
 	import DesktopNavbar from '../molecules/Navbar/Desktop.svelte';
 	import MobileNavbar from '../molecules/Navbar/Mobile.svelte';
 
-	let scrollY = window.scrollY;
-
-	$: window.addEventListener('scroll', () => {
-		scrollY = window.scrollY;
-	});
+	let scrollY;
 </script>
+
+<svelte:window bind:scrollY />
 
 <header
 	class={clsx(
