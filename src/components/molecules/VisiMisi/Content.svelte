@@ -9,7 +9,9 @@
 	<div class="space-y-4 md:w-1/2">
 		<div>
 			<BoldText>Visi</BoldText>
-			<Subtitle>Sebagai pusat pengembangan jasa yang utama di Kabupaten Bandung.</Subtitle>
+			<Subtitle>
+				Sebagai pusat pengembangan jasa yang utama di Kabupaten Bandung.
+			</Subtitle>
 		</div>
 		<BoldText>Misi</BoldText>
 		<Subtitle>
@@ -18,8 +20,8 @@
 					Meningkatkan penyelenggaraan pemerintah dan pelayanan prima yang profesional.
 				</NormalItem>
 				<NormalItem>
-					Membangun kehidupan sosial yang harmonis dengan ditunjang partisipasi Masyarakat yang
-					Terus Meningkat.
+					Membangun kehidupan sosial yang harmonis dengan ditunjang partisipasi
+					Masyarakat yang Terus Meningkat.
 				</NormalItem>
 				<NormalItem>
 					Meningkatkan penataan lingkungan kecamatan, terutama lingkungan pemukiman yang

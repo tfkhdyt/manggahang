@@ -12,7 +12,7 @@
 	{src}
 	{alt}
 	class={clsx(
-		'object-cover object-center mx-auto w-full rounded transition  grayscale group-hover:grayscale-0',
+		'object-cover object-center mx-auto w-full rounded transition grayscale group-hover:grayscale-0',
 		match(roundedPosition)
 			.with('t', () => 'rounded-t-[2rem] md:rounded-t-[4rem]')
 			.with('l', () => 'rounded-l-[2rem] md:rounded-l-[4rem]')

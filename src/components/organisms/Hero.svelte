@@ -25,7 +25,11 @@
 			/>
 		</div>
 		<div class="ml-auto md:w-11/12 lg:w-5/6">
-			<GradientImage src="/img/lapang-carik.webp" alt="Lapangan Carik" className="aspect-[2.5/1]" />
+			<GradientImage
+				src="/img/lapang-carik.webp"
+				alt="Lapangan Carik"
+				className="aspect-[2.5/1]"
+			/>
 		</div>
 		<div class="ml-auto md:w-11/12 lg:w-5/6">
 			<GradientImage

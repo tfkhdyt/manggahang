@@ -8,6 +8,7 @@
 </div>
 <div class="md:max-w-md">
 	<Subtitle>
-		Manggahang adalah sebuah kelurahan di kecamatan Baleendah, Bandung, Jawa Barat, Indonesia.
+		Manggahang adalah sebuah kelurahan di kecamatan Baleendah, Bandung, Jawa Barat,
+		Indonesia.
 	</Subtitle>
 </div>
