@@ -12,24 +12,24 @@
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^2.1.0",
 		"@sveltejs/adapter-static": "^2.0.2",
-		"@sveltejs/kit": "^1.21.0",
-		"@unocss/reset": "^0.53.4",
-		"eslint": "^8.44.0",
+		"@sveltejs/kit": "^1.22.3",
+		"@unocss/reset": "^0.53.5",
+		"eslint": "^8.45.0",
 		"eslint-config-prettier": "^8.8.0",
-		"eslint-plugin-svelte": "^2.32.2",
+		"eslint-plugin-svelte": "^2.32.4",
 		"prettier": "^2.8.8",
 		"prettier-plugin-svelte": "^2.10.1",
-		"svelte": "^4.0.3",
+		"svelte": "^4.1.1",
 		"svelte-hamburgers": "^4.1.0",
-		"unocss": "^0.53.4",
-		"vite": "^4.3.9"
+		"unocss": "^0.53.5",
+		"vite": "^4.4.5"
 	},
 	"type": "module",
 	"dependencies": {
-		"@fontsource/poppins": "^5.0.4",
+		"@fontsource/poppins": "^5.0.5",
 		"clsx": "^1.2.1",
 		"svelte-media-queries": "^1.5.4",
-		"tailwind-merge": "^1.13.2",
-		"ts-pattern": "^5.0.1"
+		"tailwind-merge": "^1.14.0",
+		"ts-pattern": "^5.0.4"
 	}
 }
